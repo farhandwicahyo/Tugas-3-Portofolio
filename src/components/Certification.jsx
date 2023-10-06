@@ -52,7 +52,7 @@ const Certification = () => {
 
     <div  className="bg-gradient-to-b from-gray-800 to-black w-full text-white ">
 <div id="" className=" md:pb-24 "></div>
-<div id="Certification" className=" md:pb-16 pt-20"></div>
+<div id="Certification" className=" md:pb-0 pt-20"></div>
         <div className="max-w-screen-lg p-4 mx-auto flex flex-col justify-center w-full h-full">
             <div className="pb-3">
                 <p className="text-4xl font-bold inline border-b-4 border-gray-500">Certification</p>

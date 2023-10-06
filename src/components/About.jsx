@@ -7,8 +7,8 @@ const About = () => {
         className="w-full h-screen bg-gradient-to-b from-gray-800 to-black text-white pt-96 md:pt-0"
     >
         <div className="max-w-screen-lg p-4 mx-auto flex flex-col justify-center w-full h-full pb-96 md:pb-0">
-            <div className="pb-8">
-                <p className="text-4xl font-bold inline border-b-4 border-gray-500">About</p>
+            <div className="pb-8 pt-24">
+                <p className="text-4xl font-bold inline border-b-4 border-gray-500 ">About</p>
             </div>
 
             <p className="text-xl text-justify">I am a forward-thinking IT enthusiast pursuing my education at Diponegoro University. With expertise in cutting-edge frameworks like CodeIgniter and Navicat, I possess a solid foundation in web development. Additionally, I am actively expanding my skill set by exploring various other frameworks. </p>

@@ -5,7 +5,7 @@ import { MdOutlineKeyboardArrowRight } from 'react-icons/md'
 const Home = () => {
   return (
     <div id="home" className="flex h-screen w-full bg-gradient-to-b from-black to-gray-800 via-black">
-        <div className="max-w-screen-lg mx-auto flex flex-col items-center justify-center h-full px-4 md:flex-row md:pb-96 pt-10 md:pt-72 gap-8">
+        <div className="max-w-screen-lg mx-auto flex flex-col items-center justify-center h-full px-4 md:flex-row md:pb-96 pt-24 md:pt-72 gap-8">
             <div className="flex flex-col justify-center items-center md:items-start h-full">
                 <h2 className="text-4xl sm:text-5xl font-bold text-white pt-0 md:pt-0  md:text-left text-center">
                     I'm Supply Chain Management & IT Enthusiast
